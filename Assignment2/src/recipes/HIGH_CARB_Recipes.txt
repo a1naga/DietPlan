@@ -1,0 +1,20 @@
+Pizza:Thin crust:10.00:360
+Briyani:indian vegetable briyani:10:440
+Burger:bread with veg:6:200
+Beetroot Leaf and Yogurt Flatbreads: Raw beetroot and with yogurt:12.00:200
+Tomato and Basil Pasta:Whole wheat Pasta:15.00:350
+Tofu, Cashews and Vegetable Stir Fry:Salad:13:200
+Whole-wheat Wraps with Grilled Veggies, Feta & Hummus:The hummus is made from chickpeas:15.00:300
+Spicy Lentil Wrap with Tahini Sauce:Both the lentils and bulgur form the bulk of this wrap:13.00:250
+Smashed Chickpea Greek Salad Sandwich:The combination of olives, cucumber and spices means you’ll probably find yourself opting for this sandwich weekly.:15.00:320
+Detox Salad:Salad that will help your body purge itself of unwanted substances:11.50:150
+Dried Cranberry Couscous Salad:This couscous salad looks so good you just want to drop a spoon in it and get to work:17.00:310
+Crispy Sweet Potato Burgers:Sweet potatoes provide several health benefits and also taste great:16.00:220
+Pumpkin pasta:pasta made of pumpkin:12.00:210
+Garden fresh pizza:pizza made of garden veggies:13.00:230
+Chicken Pasta:pasta made of chicken:12.00:210
+Fish Fillet with bread:fish fillet with toasted bread:14.00:240
+Eggplant roast with bread:roasted eggplants with toasted bread:14.50:275
+Pasta with soup:whole wheat pasta with soup:15.50:300
+Chapathi with Daal:whole wheat chapathi with yellow daal:16:310
+White rice with sambar:white rice mixed with sambar made of dal:11.50:280
